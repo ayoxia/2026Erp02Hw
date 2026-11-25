@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\2026Nov20HW\2026Nov20HW\bin\Debug\2026Nov20HW.exe.config
+C:\Users\USER\source\repos\2026Nov20HW\2026Nov20HW\bin\Debug\2026Nov20HW.exe
+C:\Users\USER\source\repos\2026Nov20HW\2026Nov20HW\bin\Debug\2026Nov20HW.pdb
+C:\Users\USER\source\repos\2026Nov20HW\2026Nov20HW\obj\Debug\2026Nov20HW.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\2026Nov20HW\2026Nov20HW\obj\Debug\2026Nov20HW.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\2026Nov20HW\2026Nov20HW\obj\Debug\2026Nov20HW.exe
+C:\Users\USER\source\repos\2026Nov20HW\2026Nov20HW\obj\Debug\2026Nov20HW.pdb
